@@ -54,7 +54,6 @@ standard pstricks distribution.
 %doc %{_texmfdistdir}/doc/generic/pst-bar/pst-bar-doc.tex
 %doc %{_texmfdistdir}/doc/generic/pst-bar/pst-bar-docDE.pdf
 %doc %{_texmfdistdir}/doc/generic/pst-bar/pst-bar-docDE.tex
-%doc %{_texmfdistdir}/doc/generic/pst-bar/pst-bar.orig
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-bar/Makefile
 %doc %{_tlpkgobjdir}/*.tlpobj
