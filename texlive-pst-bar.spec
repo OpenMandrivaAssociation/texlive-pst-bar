@@ -6,7 +6,7 @@
 # catalog-version 0.92
 Name:		texlive-pst-bar
 Version:	0.92
-Release:	9
+Release:	10
 Summary:	Produces bar charts using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bar
