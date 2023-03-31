@@ -1,6 +1,6 @@
 Name:		texlive-pst-bar
 Version:	64331
-Release:	1
+Release:	2
 Summary:	Produces bar charts using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bar
