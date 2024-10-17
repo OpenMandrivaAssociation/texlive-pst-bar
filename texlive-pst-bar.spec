@@ -3,7 +3,7 @@ Version:	64331
 Release:	2
 Summary:	Produces bar charts using pstricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bar
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bar
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-bar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-bar.doc.r%{version}.tar.xz
